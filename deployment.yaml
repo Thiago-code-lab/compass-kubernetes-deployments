@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: hello-app-container
-        image: thiagodavi2006/compass-python-api:76057e6
+        image: thiagodavi2006/compass-python-api:0cec156
         ports:
         - containerPort: 8000
