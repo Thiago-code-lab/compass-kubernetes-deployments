@@ -293,36 +293,17 @@ Contém a <strong>configuração (Manifestos)</strong> que é lida pelo ArgoCD p
 
 ## 👨‍💻 Autor
 
-<img src="https://media.licdn.com/dms/image/v2/D5603AQFzk_EbdGFUXg/profile-displayphoto-crop_800_800/B56ZpRDXSuG0AI-/0/1762296429573?e=1764201600&v=beta&t=9jsi4QvC-f9I9m6of2nCXfjJDFqdQBheodSMspWKMNM" width="100" style="border-radius: 50%;" alt="Thiago Cardoso Davi"/>
+<img src="https://media.licdn.com/dms/image/v2/D5603AQFzk_EbdGFUXg/profile-displayphoto-crop_800_800/B56ZpRDXSuG0AI-/0/1762296429573?e=1764201600&v=beta&t=9jsi4QvC-f9I9m6of2nCXfjJDFqdQBheodSMspWKMNM" width="150" style="border-radius: 50%; border: 4px solid #58A6FF;" alt="Thiago Cardoso Davi"/>
 
 ### **Thiago Cardoso Davi**
 
-[![Email](https://img.shields.io/badge/Email-analyticsdev.thiago%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:analyticsdev.thiago@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago%20Cardoso-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analyticsthiagocardoso)
-[![GitHub](https://img.shields.io/badge/GitHub-Thiago--code--lab-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Thiago-code-lab)
+[![Email](https://img.shields.io/badge/Email-analyticsdev.thiago%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:analyticsdev.thiago@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago%20Cardoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analyticsthiagocardoso)
+[![GitHub](https://img.shields.io/badge/GitHub-Thiago--code--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiago-code-lab)
 
----
+<br>
 
-### 🎓 Programa de Bolsas DevSecOps - Compass UOL
-
-</div>
-
----
-
-## 📄 Licença
-
-<div align="center">
-
-```
-MIT License
-
-Copyright (c) 2025 Thiago Cardoso Davi
-
-Este projeto está sob a licença MIT.
-Veja o arquivo LICENSE para mais detalhes.
-```
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+> 🧭 Desenvolvido como parte do **Programa de Bolsas DevSecOps - Compass UOL**
 
 </div>
 
@@ -330,17 +311,30 @@ Veja o arquivo LICENSE para mais detalhes.
 
 <div align="center">
 
-**⭐ Se este projeto foi útil, considere dar uma estrela!**
+## ⭐ Agradecimentos
+
+**Compass UOL** pelo programa de bolsas e oportunidade de aprendizado  
+Comunidade **Cloud Native** pelas ferramentas open-source incríveis
+
+</div>
+
+---
+
+<div align="center">
+
+### **Se este projeto foi útil para você, considere dar uma ⭐!**
 
 <br>
 
-Feito com ❤️ e ☕ usando **GitOps**
+Feito com ❤️ e ☕ por [**Thiago Cardoso Davi**](https://github.com/Thiago-code-lab)
 
 <br>
+
+</div>
 
 ```ascii
 ╔═══════════════════════════════════════╗
-║  Kubernetes + ArgoCD = DevOps Magic  ║
+║  Kubernetes + ArgoCD = Mágica do DevOps  ║
 ╚═══════════════════════════════════════╝
 ```
 
